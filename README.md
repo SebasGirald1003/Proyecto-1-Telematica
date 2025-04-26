@@ -47,7 +47,9 @@ Ambos programas fueron desarrollados en C utilizando la API de sockets de Berkel
 
 ---
 
-## Conclusiones
+## Video
+
+link: https://youtu.be/rEL36vGc6t0
 
 ## Conclusiones
 
